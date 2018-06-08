@@ -25,7 +25,7 @@ job('Eval_v1') {
     }
 }
 
-job('Eval_v1') {
+job('Eval_v2') {
     description 'v2'
     scm {
         git {
